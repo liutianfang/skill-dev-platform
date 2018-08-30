@@ -1,5 +1,5 @@
 
-##安装python虚拟环境的依赖包
+## 安装python虚拟环境的依赖包
 
     source /opt/venv/bin/activate
     pip install -Ur /opt/sdp/requirements.txt
