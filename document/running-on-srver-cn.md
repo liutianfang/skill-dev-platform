@@ -10,7 +10,7 @@
 
  ## 编译安装python
 
- 从https://www.python.org/downloads/下载源码（3.6.5和3.7.0版本测试通过）
+ 从https://www.python.org/downloads/  下载源码（3.6.5和3.7.0版本测试通过）
 
  ### 安装centos 必需程序及库
 
