@@ -21,7 +21,7 @@
 ### 编译安装
   进入python 源码目录
 
-    /configure --prefix=/usr/local/python3 --enable-optimizations  #选择了--enable-optimizations会时间很长
+    ./configure --prefix=/usr/local/python3 --enable-optimizations  #选择了--enable-optimizations会时间很长
     make && make install
     ln -s /usr/local/python3/bin/python3 /usr/bin/python3
 
