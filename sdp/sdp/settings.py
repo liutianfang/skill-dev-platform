@@ -37,7 +37,11 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'botskill'
+    # 'botskill',
+    "duerosskill",
+    'jdskill',
+    'xiaoaiskill',
+    'aligenieskill'
 ]
 
 MIDDLEWARE = [
