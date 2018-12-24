@@ -1,5 +1,3 @@
-from general.interface import AbstractResponse
-
 class ResponseJD:
     response = None
     session = None

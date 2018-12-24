@@ -1,6 +1,5 @@
 from jdskill.models import *
 import random, datetime
-from general.interface import AbstractResponse
 from typing import *
 from jdskill.response import ResponseJD
 
